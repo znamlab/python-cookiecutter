@@ -220,7 +220,7 @@ add_two_integers(1, 2)
 
 Running `pre-commit install` will set up [pre-commit hooks](https://pre-commit.com/) to ensure the code is
 formatted correctly. Currently, these are:
-* [black](https://black.readthedocs.io/en/stable/) for code structure formatting (maximum line length set to 79)
+* [black](https://black.readthedocs.io/en/stable/) for code structure formatting (maximum line length set to 88)
 * [mypy](https://mypy.readthedocs.io/en/stable/index.html) a static type checker
 * [ruff](https://github.com/charliermarsh/ruff) does a number of jobs, including enforcing PEP8 and sorting imports
 
